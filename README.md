@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Baran.
-- 💼 Founder of [Basework](http://basework.studio/)
+- 👋  Hi, I'm Baran.
+- 💼  Founder of [Basework](http://basework.studio/)
