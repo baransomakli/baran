@@ -1,2 +1,2 @@
-- 👋  Hi, I'm Baran.
-- 💼  Founder of [Basework](http://basework.studio/)
+Hello ✋, I'm Baran. 
+I am the Co-Founder & Developer of [Basework](http://basework.studio/). After 7 years of freelance experience, we are working on design and software projects with my team.
